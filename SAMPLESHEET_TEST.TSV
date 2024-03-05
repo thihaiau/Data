@@ -1,0 +1,4 @@
+ID	R1	R2	LongFastQ	Fast5	GenomeSize
+shortNlong	./data_SRA/ERR2503151_pass_R1.fastq	./data_SRA/ERR2503151_pass_R2.fastq	./data_SRA/ERR2503151_pass.fastq	NA	NA		
+shortreads	./data_SRA/ERR2503151_pass_R1.fastq	./data_SRA/ERR2503151_pass_R2.fastq	NA	NA	NA
+longreads	NA	NA	./data_SRA/ERR2503151_pass.fastq	NA	NA
